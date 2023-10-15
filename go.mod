@@ -1,6 +1,6 @@
 module github.com/p2064/adder
 
-go 1.21.2
+go 1.21
 
 require (
 	github.com/p2064/pkg v0.0.0-20231015130921-835d3ecbaa3a
